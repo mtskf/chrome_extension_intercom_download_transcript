@@ -11,7 +11,7 @@
   "content_scripts": [
     {
       "matches": ["https://app.intercom.com/a/apps/*/conversations/*"],
-      "js": ["jquery-3.6.0.min.js", "content_script.js"]
+      "js": ["content_script.js"]
     }
   ],
   "background": {

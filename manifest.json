@@ -1,7 +1,7 @@
 {
   "name": "Download Intercom transcript",
   "description": "Click to download Intercom conversation transcript (html format).",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 3,
   "icons": {
       "16": "icon16.png",
